@@ -133,6 +133,7 @@ jobs:
           - "nu_genomics"
           - "nygc"
           - "nyu_hpc"
+          - "o2"
           - "oist"
           - "pasteur"
           - "pawsey_nimbus"
